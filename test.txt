@@ -1,0 +1,606 @@
+this is loaded
+{
+  "statuses": [
+    {
+      "created_at": "Wed Feb 21 05:09:18 +0000 2018",
+      "id": 966177991561760800,
+      "id_str": "966177991561760768",
+      "text": "RT @Ashishbishtvevo: #Nodejs 8.0 New LTS Release with Advanced Native Module Features https://t.co/ZQP9HrTyI6 #javascript #npm #AngularJS #…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Nodejs",
+            "indices": [
+              21,
+              28
+            ]
+          },
+          {
+            "text": "javascript",
+            "indices": [
+              110,
+              121
+            ]
+          },
+          {
+            "text": "npm",
+            "indices": [
+              122,
+              126
+            ]
+          },
+          {
+            "text": "AngularJS",
+            "indices": [
+              127,
+              137
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Ashishbishtvevo",
+            "name": "Ashish Bisht",
+            "id": 179074474,
+            "id_str": "179074474",
+            "indices": [
+              3,
+              19
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ZQP9HrTyI6",
+            "expanded_url": "http://bit.ly/2wcMBgw",
+            "display_url": "bit.ly/2wcMBgw",
+            "indices": [
+              86,
+              109
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://github.com/BnJam/Twitterbot\" rel=\"nofollow\">ZippyBot2</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 921657192566046700,
+        "id_str": "921657192566046721",
+        "name": "ZippyBot",
+        "screen_name": "ZippyBot1000",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 58,
+        "friends_count": 0,
+        "listed_count": 3,
+        "created_at": "Sat Oct 21 08:39:33 +0000 2017",
+        "favourites_count": 8032,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 8536,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/921660082013609984/hR0b59LW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/921660082013609984/hR0b59LW_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Feb 16 12:47:05 +0000 2018",
+        "id": 964481255621447700,
+        "id_str": "964481255621447680",
+        "text": "#Nodejs 8.0 New LTS Release with Advanced Native Module Features https://t.co/ZQP9HrTyI6 #javascript #npm… https://t.co/ZAJ3NJgAWv",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "Nodejs",
+              "indices": [
+                0,
+                7
+              ]
+            },
+            {
+              "text": "javascript",
+              "indices": [
+                89,
+                100
+              ]
+            },
+            {
+              "text": "npm",
+              "indices": [
+                101,
+                105
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/ZQP9HrTyI6",
+              "expanded_url": "http://bit.ly/2wcMBgw",
+              "display_url": "bit.ly/2wcMBgw",
+              "indices": [
+                65,
+                88
+              ]
+            },
+            {
+              "url": "https://t.co/ZAJ3NJgAWv",
+              "expanded_url": "https://twitter.com/i/web/status/964481255621447680",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                107,
+                130
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https://statusbrew.com\" rel=\"nofollow\">Statusbrew</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 179074474,
+          "id_str": "179074474",
+          "name": "Ashish Bisht",
+          "screen_name": "Ashishbishtvevo",
+          "location": "Gurugram, Haryana, India",
+          "description": "#SEO Executive #SocialMedia Strategist #Tech Lover #SMM #SEM #DigitalMarketing Professional #Socialmediamarketing",
+          "url": "https://t.co/vjjFolQD2p",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/vjjFolQD2p",
+                  "expanded_url": "http://starheadtech.com/",
+                  "display_url": "starheadtech.com",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 1199,
+          "friends_count": 618,
+          "listed_count": 29,
+          "created_at": "Mon Aug 16 12:49:31 +0000 2010",
+          "favourites_count": 223,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 2341,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/866948487065284609/1LyUdJx-_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/866948487065284609/1LyUdJx-_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/179074474/1512120905",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    }
+  ],
+  "search_metadata": {
+    "completed_in": 0.04,
+    "max_id": 966177991561760800,
+    "max_id_str": "966177991561760768",
+    "query": "node.js",
+    "refresh_url": "?since_id=966177991561760768&q=node.js&include_entities=1",
+    "count": 2,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}
+{
+  "Search": [
+    {
+      "Title": "House",
+      "Year": "2004–2012",
+      "imdbID": "tt0412142",
+      "Type": "series",
+      "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE2NzcxOTAyM15BMl5BanBnXkFtZTcwOTYyMjI5MQ@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Full House",
+      "Year": "2004–",
+      "imdbID": "tt0464625",
+      "Type": "series",
+      "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI4NzE2Mjc2MF5BMl5BanBnXkFtZTcwMzk0MzU1MQ@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Colonial House",
+      "Year": "2004–",
+      "imdbID": "tt0403745",
+      "Type": "series",
+      "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTExMjE0NTM3OTVeQTJeQWpwZ15BbWU3MDMxNTg5MjE@._V1_SX300.jpg"
+    },
+    {
+      "Title": "The Regency House Party",
+      "Year": "2004–",
+      "imdbID": "tt0435985",
+      "Type": "series",
+      "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMyMjUwMjUzNl5BMl5BanBnXkFtZTcwMTc5MjcyMQ@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Mad Mad House",
+      "Year": "2004–",
+      "imdbID": "tt0380926",
+      "Type": "series",
+      "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk0MjU0NzY5NF5BMl5BanBnXkFtZTYwMTIwODU3._V1_SX300.jpg"
+    },
+    {
+      "Title": "How Clean Is Your House?",
+      "Year": "2004–",
+      "imdbID": "tt0439370",
+      "Type": "series",
+      "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZDMwZjBlNDMtMDZmMS00OTQ5LWEyMWQtOWZjMjAwM2VmNDdkXkEyXkFqcGdeQXVyMTkzMjI1OTM@._V1_SX300.jpg"
+    },
+    {
+      "Title": "The Big House",
+      "Year": "2004–",
+      "imdbID": "tt0403728",
+      "Type": "series",
+      "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZDE5ZWFlNGUtNWExOC00NWJkLTljYzQtMTM0ZjBmNDIwNGJjXkEyXkFqcGdeQXVyNjgwNzM2Mw@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Midnight Spike's House Brew",
+      "Year": "2004–",
+      "imdbID": "tt0442641",
+      "Type": "series",
+      "Poster": "N/A"
+    },
+    {
+      "Title": "Take This House and Sell It",
+      "Year": "2004–",
+      "imdbID": "tt1410220",
+      "Type": "series",
+      "Poster": "N/A"
+    },
+    {
+      "Title": "Honey I Ruined the House",
+      "Year": "2004",
+      "imdbID": "tt0421365",
+      "Type": "series",
+      "Poster": "N/A"
+    }
+  ],
+  "totalResults": "21",
+  "Response": "True"
+}
+{
+  "tracks": {
+    "href": "https://api.spotify.com/v1/search?query=dancing+in+the+moonlight&type=track&offset=0&limit=2",
+    "items": [
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV"
+              },
+              "href": "https://api.spotify.com/v1/artists/6xeFne1rkxMhKSW3ipvkdV",
+              "id": "6xeFne1rkxMhKSW3ipvkdV",
+              "name": "Toploader",
+              "type": "artist",
+              "uri": "spotify:artist:6xeFne1rkxMhKSW3ipvkdV"
+            }
+          ],
+          "available_markets": [
+            "HK",
+            "ID",
+            "MY",
+            "PH",
+            "SG",
+            "TH",
+            "TW",
+            "US"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4uTSmNGMP2FrM5D3NMeI6P"
+          },
+          "href": "https://api.spotify.com/v1/albums/4uTSmNGMP2FrM5D3NMeI6P",
+          "id": "4uTSmNGMP2FrM5D3NMeI6P",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/0c2f13b8370e06797b6ab7998b9a283802455f42",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/abfa7677702cad853c9004dae9cb18b4fd893c61",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/421a1d4031cb9019d82cb9d6b4b0493411b5dc79",
+              "width": 64
+            }
+          ],
+          "name": "Onka's Big Moka",
+          "release_date": "2000",
+          "release_date_precision": "year",
+          "type": "album",
+          "uri": "spotify:album:4uTSmNGMP2FrM5D3NMeI6P"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV"
+            },
+            "href": "https://api.spotify.com/v1/artists/6xeFne1rkxMhKSW3ipvkdV",
+            "id": "6xeFne1rkxMhKSW3ipvkdV",
+            "name": "Toploader",
+            "type": "artist",
+            "uri": "spotify:artist:6xeFne1rkxMhKSW3ipvkdV"
+          }
+        ],
+        "available_markets": [
+          "HK",
+          "ID",
+          "MY",
+          "PH",
+          "SG",
+          "TH",
+          "TW",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 233573,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBBBN0102316"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1OzY7RRZh3EcIKn7VKZUTx"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1OzY7RRZh3EcIKn7VKZUTx",
+        "id": "1OzY7RRZh3EcIKn7VKZUTx",
+        "name": "Dancing in the Moonlight - 2001 Remix",
+        "popularity": 67,
+        "preview_url": "https://p.scdn.co/mp3-preview/bb872fb100458a4709c5bbd968fa040b440f2e47?cid=f632c55947864a2b9c341669f0d89723",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:1OzY7RRZh3EcIKn7VKZUTx"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y"
+              },
+              "href": "https://api.spotify.com/v1/artists/5FHwr1FymaS5kutIEK6e2y",
+              "id": "5FHwr1FymaS5kutIEK6e2y",
+              "name": "King Harvest",
+              "type": "artist",
+              "uri": "spotify:artist:5FHwr1FymaS5kutIEK6e2y"
+            }
+          ],
+          "available_markets": [
+            "AR",
+            "AU",
+            "BO",
+            "BR",
+            "CA",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "DO",
+            "EC",
+            "GB",
+            "GT",
+            "HK",
+            "HN",
+            "ID",
+            "IE",
+            "JP",
+            "MX",
+            "MY",
+            "NI",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PY",
+            "SG",
+            "SV",
+            "TH",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2W5SVDEBlGqHYqt5sa9PnA"
+          },
+          "href": "https://api.spotify.com/v1/albums/2W5SVDEBlGqHYqt5sa9PnA",
+          "id": "2W5SVDEBlGqHYqt5sa9PnA",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/db10fb30eaacb0599d50dafae2cfc54927058ac7",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/b71ecd2d6bfdd8d7f562396f39d9b4598f081769",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/71faa36f8f729dd232c86a6d009f65253a04e764",
+              "width": 64
+            }
+          ],
+          "name": "Dancing in the Moonlight",
+          "release_date": "1973-01-01",
+          "release_date_precision": "day",
+          "type": "album",
+          "uri": "spotify:album:2W5SVDEBlGqHYqt5sa9PnA"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y"
+            },
+            "href": "https://api.spotify.com/v1/artists/5FHwr1FymaS5kutIEK6e2y",
+            "id": "5FHwr1FymaS5kutIEK6e2y",
+            "name": "King Harvest",
+            "type": "artist",
+            "uri": "spotify:artist:5FHwr1FymaS5kutIEK6e2y"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "AU",
+          "BO",
+          "BR",
+          "CA",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "DO",
+          "EC",
+          "GB",
+          "GT",
+          "HK",
+          "HN",
+          "ID",
+          "IE",
+          "JP",
+          "MX",
+          "MY",
+          "NI",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PY",
+          "SG",
+          "SV",
+          "TH",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 181133,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USY4W0610011"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0q21FNwES2bbtcduB6kjEU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0q21FNwES2bbtcduB6kjEU",
+        "id": "0q21FNwES2bbtcduB6kjEU",
+        "name": "Dancing in the Moonlight",
+        "popularity": 63,
+        "preview_url": "https://p.scdn.co/mp3-preview/946e8fd229c36c44b597d33aa4c33ac0dd0d368a?cid=f632c55947864a2b9c341669f0d89723",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:0q21FNwES2bbtcduB6kjEU"
+      }
+    ],
+    "limit": 2,
+    "next": "https://api.spotify.com/v1/search?query=dancing+in+the+moonlight&type=track&offset=2&limit=2",
+    "offset": 0,
+    "previous": null,
+    "total": 890
+  }
+}
